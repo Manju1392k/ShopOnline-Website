@@ -62,7 +62,7 @@ npm run dev
 * Now Open **cmd** in windows, **bash Terminal** in mac. Now Hit the Below Command's
 
 ```bash
-git clone https://github.com/Manju1392k/Portfolio-Website.git
+git clone https://github.com/Manju1392k/ShopOnline-Website.git
 ```
 
 * The project cloned after this process
